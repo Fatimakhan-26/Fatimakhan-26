@@ -3,7 +3,7 @@
 I'm a Computer Science student who just started university and is learning to code from scratch.
 
 ## Currently Learning
-- HTML & CSS
+- HTML, CSS, Javascript.
 - C++ (Programming Fundamentals)
 
 ## Projects
@@ -13,13 +13,15 @@ I'm a Computer Science student who just started university and is learning to co
 ## Goals
 - Get better at C++ and problem solving
 - Build more projects every month
-- Type faster and code more confidently
+- Never stop learning
+- Full stack developer
 
 ## Tools I Use
 - Windows
 - Dev C++
 - HTML/CSS
 - VS code
+- Figma
 
 ## Find Me
 - GitHub: [@Fatimakhan-26](https://github.com/Faimakhan-26)
