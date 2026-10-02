@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hey! I'm Fatima, a beginner developer based in Pakistan.
 
-<!--
-**Fatimakhan-26/Fatimakhan-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who just started university and is learning to code from scratch.
 
-Here are some ideas to get you started:
+## Currently Learning
+- HTML & CSS
+- C++ (Programming Fundamentals)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Netflix Clone**: my first HTML project
+- **Spotify Clone**: a Spotify homepage built with HTML, CSS and flexbox
+
+## Goals
+- Get better at C++ and problem solving
+- Build more projects every month
+- Type faster and code more confidently
+
+## Tools I Use
+- Windows
+- Dev C++
+- HTML/CSS
+- VS code
+
+## Find Me
+- GitHub: [@Fatimakhan-26](https://github.com/Faimakhan-26)
+
+Thanks for visiting my profile!
+
